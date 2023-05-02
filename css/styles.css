@@ -1,1 +1,22 @@
 
+.own-navbar-text {
+    font-size: 0.7rem;
+}
+
+.card {
+    border:none;
+}
+
+.own-subtitle {
+    font-size: 0.8rem;
+    padding-bottom: 1rem;
+}
+
+.own-title {
+    font-size: 4rem;
+    letter-spacing: -0.3rem;
+}
+
+.own-caption {
+    padding-top: 0.5rem;
+}
