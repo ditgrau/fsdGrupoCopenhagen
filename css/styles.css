@@ -21,6 +21,7 @@ body{
 .own-title {
     font-size: 4rem;
     letter-spacing: -0.3rem;
+    line-height: 4rem;
 }
 
 .own-caption {
