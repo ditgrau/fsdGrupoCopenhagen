@@ -4,7 +4,7 @@ body{
 }
 
 .own-navbar-text {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 
 .card {
@@ -12,13 +12,13 @@ body{
 }
 
 .own-subtitle {
-    font-size: 0.8rem;
-    padding-bottom: 1rem;
+    font-size: 0.7rem;
+    padding-bottom: 0.8rem;
 }
 
 .own-title {
-    font-size: 4rem;
-    letter-spacing: -0.3rem;
+    font-size: 4.5rem;
+    letter-spacing: -0.4rem;
     
 }
 
@@ -29,4 +29,16 @@ body{
 
 .own-caption {
     padding-top: 0.5rem;
+}
+
+.navbar-brand {
+    margin: 0;
+}
+
+.own-main-text {
+    margin-bottom: 1rem;
+}
+
+.own-nav-list {
+    background-color: rgb(234, 226, 215);
 }
