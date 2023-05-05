@@ -5,7 +5,6 @@
 
 .container {
     width: 100vw;
-    height: 100hw;
 }
 
 .own-navbar-text {
@@ -14,7 +13,6 @@
 
 .empty-row {
     height: 4rem;
-    width: 100vw;
     margin:0;
     padding: 0;
 }
@@ -40,7 +38,7 @@
     margin: 0;
 }
 
-.own-nav-list {
+.own-nav-list, .own-link-footer {
     background-color: rgb(234, 226, 215);
 }
 
