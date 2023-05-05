@@ -3,9 +3,29 @@
     margin:0;
 }
 
+.container {
+    width: 100vw;
+    height: 100hw;
+}
+
 .own-navbar-text {
     font-size: 0.8rem;
 }
+
+.empty-row {
+    height: 3.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .card {
     border:none;
