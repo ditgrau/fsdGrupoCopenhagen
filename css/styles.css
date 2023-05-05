@@ -16,47 +16,21 @@
     height: 3.5rem;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-.card {
-    border:none;
-}
-
 .own-subtitle {
     font-size: 0.7rem;
-    padding-bottom: 0.8rem;
+    padding-bottom: 1rem;
+    line-height: 0.7rem;
 }
 
 .own-title {
     font-size: 4.5rem;
     letter-spacing: -0.4rem;
-    
-}
-
-.own-title {
     line-height: 3rem;
-    padding-bottom: 1.3rem;
+    padding-bottom: 1.3rem;   
 }
 
-.own-caption {
-    padding-top: 0.5rem;
-}
-
-.navbar-brand {
+.own-navbar-text {
     margin: 0;
-}
-
-.own-main-text {
-    margin-bottom: 1rem;
 }
 
 .own-nav-list {
