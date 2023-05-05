@@ -27,11 +27,15 @@
     line-height: 0.7rem;
 }
 
-.own-title {
+.own-title, .own-title-contact {
     font-size: 4.5rem;
     letter-spacing: -0.4rem;
     line-height: 3rem;
-    padding-bottom: 1.3rem;   
+    padding-bottom: 0.7rem;    
+}
+
+.own-title {
+    padding-bottom: 1.3rem;  
 }
 
 .own-navbar-text {
