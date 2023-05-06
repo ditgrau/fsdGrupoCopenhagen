@@ -50,3 +50,6 @@
     margin-top: 0.3rem;
 }
 
+.own-navbar-link:hover {
+    font-weight: 600;
+}
