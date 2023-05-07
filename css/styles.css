@@ -74,3 +74,10 @@
 --bs-accordion-btn-focus-border-color: none;
 --bs-accordion-btn-focus-box-shadow: none;
 }
+
+.own-gallery {
+    margin:0;
+    padding: 0;
+
+
+}
