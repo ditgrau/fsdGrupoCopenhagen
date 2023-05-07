@@ -62,3 +62,15 @@
 .own-text-link:hover {
     font-weight: 100;
 }
+
+.own-icon-hover:hover {
+    transform: translate(0.5rem);
+}
+
+.accordion-item {
+
+--bs-accordion-btn-bg: rgb(243, 240, 236);
+--bs-accordion-active-bg: rgb(234, 226, 215);
+--bs-accordion-btn-focus-border-color: none;
+--bs-accordion-btn-focus-box-shadow: none;
+}

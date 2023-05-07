@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <!-- AÑADIR NAVBAR -->
+
     <!-- NAVBAR -->
     <nav class="navbar bg-white navbar-expand-md">
         <div class="container-fluid d-flex justify-content-center">
@@ -20,7 +20,6 @@
                 style="width: 5rem;">Grupo Copenhagen</a>
         </div>
     </nav>
-
     <ul class="nav justify-content-center own-nav-list">
 
         <li class="nav-item">
@@ -35,7 +34,108 @@
         </li>
     </ul>
 
+    <!-- pagina Copenhagen -->
+    <div class="container pt-5">
 
+        <!-- row presentacion -->
+        <div class="row row-cols-2 mt-3 ">
+            <div class="col-1"></div>
+            <div class="col-3 own-title-contact fw-medium">Copen hagen</div>
+          
+        </div>
+        <div class="row mt-2 mb-4">
+            <div class="col-1"></div>
+            <div class="col-10 col-lg-7 col-xxl-5 h4">Un escaparate en el corazón de Ruzafa, donde damos a conocer la
+                gastronomía vegetariana, sus posibilidades y sabores.
+            </div>
+        </div>
+
+        <div class="row mt-5 justify-content-center">
+            <div class="col col-xxl-4">
+                <img src="../img/cope-outside.jpeg" class="img-fluid" alt="Oslo-outside">
+            </div>
+            <div class="col-10 col-lg-6">
+                <div class="text h4">Menú del día</div>
+                <p class="mb-1 fw-lighter mb-3">De lunes a viernes a mediodía. <br>
+                    Ven a probar nuestros deliciosos menús. <br>Incluyen pan artesano y café.</p>
+
+
+                <!-- acordeon -->
+                <div class="accordion" id="accordionMenuMalmo">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <h6>TABLA DE TAPAS - 3 degustaciones por persona a elegir</h6>
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">Gazpacho tradicional de tomate con lima y aceite de
+                                        oliva
+                                    </li>
+                                    <li class="list-group-item">Tosta con paté de calabaza asada y sésamo negro</li>
+                                    <li class="list-group-item">Ensalada de lentejas con pimientos, tomate, cebolla,
+                                        aceitunas y vinagreta de jerez</li>
+                                    <li class="list-group-item">Croqueta de boletus y avellanas tostadas</li>
+                                    <li class="list-group-item">Brocheta de corazones de alcachofa y seitán adobado,
+                                        salsa tártara y reducción de teriyaki</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <h6>PLATO PRINCIPAL</h6>
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">Salteado de calabacín, espárragos, hinojo, brócoli,
+                                        cherry
+                                        acompañado huevo a baja temperatura y pistachos</li>
+                                    <li class="list-group-item">Pizza zucchini con gorgonzola, cheddar y orégano</li>
+                                    <li class="list-group-item">Pasta artesana. Ravioli verde relleno de espinacas y
+                                        ricotta
+                                        con pesto rosa de anacardos y remolacha con parmesano</li>
+                                    <li class="list-group-item">Curry Hindú con arroz aromático, buñuelos de tofu y
+                                        berenjena</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header own-accordion">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <h6>POSTRE (a elegir)</h6>
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">Batido natural de melón, fresas y piña (vegano & sin
+                                        gluten)
+                                    </li>
+                                    <li class="list-group-item">Duo de helados de chufa y vainilla</li>
+                                    <li class="list-group-item">Bombones de chocolate de algarroba con helado de
+                                        avellana y reducción de café</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row empty-row"></div>
 
     <!-- own-footer -->
     <ul class="nav justify-content-center own-nav-list">
@@ -53,8 +153,8 @@
 
 
 
-    <!-- script  bootstrap -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
-        crossorigin="anonymous"></script>
+        <!-- script  bootstrap -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+            crossorigin="anonymous"></script>
 </body>
