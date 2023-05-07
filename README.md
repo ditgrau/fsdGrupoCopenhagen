@@ -15,30 +15,19 @@ Desarrollada como parte del Bootcamp de Full Stack Developer de Geekshubs Academ
 
 ## Tabla de contenidos
 
-- [🎨 Referencias e inspiración ](#referencias)
-- [👩🏻‍💻 Desarrollo ](#desarrollo)
-- [🤖 Funcionamiento](#funcionamiento)
-- [📢 Menciones](#menciones)
+- [👩🏻‍💻 Características](#Características)
 - [⚖️ Licencia y Copyright](#licencia-y-copyright)
 <br>
 
-### Referencias e inspiración
+### Características 
 
-![image](./img/Inspiracion.jpg)
+Este proyecto se centra en la utilización de Bootstrap, como framework para un diseño responsive.
 
-Para el dispositivo, me he inspirado en uno de nueva generación, pero he querido mantener la pantalla y la cadena de los Tamagotchi de principios de los 2000. 
+Mi proyecto consta de:
 
-En cuanto al modelado y al estilo de la representación digital, me he inspirado en el arte del recorte de papel (Papercut Art) para crear efectos de iluminación y sombreado. No buscaba simular una tridimensionalidad realista, sino crear pequeños elementos en 2D que al superponerse ofrecen profundidad. Sin embargo, he aplicado pequeñas luces y sombras para dar volumen a algunos elementos.
-
-### Desarrollo 
-Todo esta construido a traves de 'divs' y se ha trabajado en flexbox, con la única excepción de las crucetas de la parte frontal del Tamagotchi, ambas en display:grid.
-
-Todos los elementos están creados con HTML y CSS, a excepción de las imágenes que aparecen en la pantalla y la sonrisa. Aún así, todas han sido creadas inéditamente para este proyecto.
-
-Las mayores dificultades enfrentadas durante este proyecto han sido las numerosas formas redondeadas y poco convencionales.
-
-### Funcionamiento
-
+- HOME: Página principal donde se presentan los tres restaurantes.
+- PÁGINAS RESTAURANTES: Malmö, Oslo y Copenhagen, cada una con su página propia, con su menú. Malmö, además, tiene enlace a otra página con especialidades de cervezas.
+- CONTACTO: página que muestra la información de contacto, la dirección y además contiene un formulario para enviar consultas.
 
 ### Licencia y copyright
 La licencia utilizada es una Creative Commons Legal Code.
