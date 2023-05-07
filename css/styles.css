@@ -53,3 +53,11 @@
 .own-navbar-link:hover {
     font-weight: 600;
 }
+
+.btn-primary {
+    --bs-btn-color: var(--bs-black);
+    --bs-btn-bg: rgb(234, 226, 215);
+    --bs-btn-border-color: none;
+    --bs-btn-hover-bg: rgb(198, 183, 169);
+    --bs-btn-active-bg: rgb(198, 183, 169);
+}
