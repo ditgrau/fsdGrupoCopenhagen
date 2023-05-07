@@ -26,7 +26,7 @@ Este proyecto se centra en la utilización de Bootstrap, como framework para un 
 Mi proyecto consta de:
 
 - HOME: Página principal donde se presentan los tres restaurantes.
-- PÁGINAS RESTAURANTES: Malmö, Oslo y Copenhagen, cada una con su página propia, con su menú. Malmö, además, tiene enlace a otra página con especialidades de cervezas.
+- PÁGINAS RESTAURANTES: Malmö, Oslo y Copenhagen, cada restaurante con su página propia, con su menú. Malmö, además, tiene enlace a otra página con especialidades de cervezas.
 - CONTACTO: página que muestra la información de contacto, la dirección y además contiene un formulario para enviar consultas.
 
 ### Licencia y copyright
