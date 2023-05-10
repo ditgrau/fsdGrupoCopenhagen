@@ -11,6 +11,11 @@
     font-size: 0.8rem;
 }
 
+.all-center {
+    display: flex;
+    justify-content: center;
+}
+
 .empty-row {
     height: 4rem;
     margin:0;
@@ -68,7 +73,6 @@
 }
 
 .accordion-item {
-
 --bs-accordion-btn-bg: rgb(243, 240, 236);
 --bs-accordion-active-bg: rgb(234, 226, 215);
 --bs-accordion-btn-focus-border-color: none;
@@ -78,6 +82,4 @@
 .own-gallery {
     margin:0;
     padding: 0;
-
-
 }
