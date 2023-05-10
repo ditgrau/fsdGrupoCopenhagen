@@ -5,6 +5,7 @@
 
 .own-navbar-text {
     font-size: 0.8rem;
+    margin: 0;
 }
 
 .own-subtitle {
@@ -24,10 +25,6 @@
     padding-bottom: 1.3rem;  
 }
 
-.own-navbar-text {
-    margin: 0;
-}
-
 .own-nav-list, .own-link-footer {
     background-color: rgb(234, 226, 215);
 }
@@ -36,11 +33,17 @@
     margin-top: 0.3rem;
 }
 
+.own-button {
+    color: var(--bs-black);
+    background: rgb(234, 226, 215);
+    border: 0;
+} 
+
+.own-button:hover{
+    background-color: rgb(198, 183, 169);
+}
+
 .btn-primary {
-    --bs-btn-color: var(--bs-black);
-    --bs-btn-bg: rgb(234, 226, 215);
-    --bs-btn-border-color: none;
-    --bs-btn-hover-bg: rgb(198, 183, 169);
     --bs-btn-active-bg: rgb(198, 183, 169);
 }
 
@@ -57,9 +60,4 @@
 --bs-accordion-active-bg: rgb(234, 226, 215);
 --bs-accordion-btn-focus-border-color: none;
 --bs-accordion-btn-focus-box-shadow: none;
-}
-
-.own-gallery {
-    margin:0;
-    padding: 0;
 }
