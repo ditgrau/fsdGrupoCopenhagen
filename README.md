@@ -30,7 +30,10 @@ Mi proyecto consta de:
 - CONTACTO: página que muestra la información de contacto, la dirección y además contiene un formulario para enviar consultas.
 
 Observaciones: 
-- He utilizado etiquetas < br > en los textos por cuestiones de diseño, buscaba un slto de linea sin espaciado entre parrafos y es la unica manera de conseguirlo.
+- Me encontre con el problema de que queria saltos de linea sin espacio entre parrafos. m-0
+- Scroll lateral 
+- No caombinar bootstrap con html limpio, toda mi estructura se basaba en rows y cols.
+
 - En el CSS: las clases que empiezan por .own, son clases sobre los diseños de bootstrap, el resto son sobre el html. 
 
 ### Licencia y copyright
