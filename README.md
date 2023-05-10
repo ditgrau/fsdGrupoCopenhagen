@@ -29,6 +29,9 @@ Mi proyecto consta de:
 - PÁGINAS RESTAURANTES: Malmö, Oslo y Copenhagen, cada restaurante con su página propia, con su menú. Malmö, además, tiene enlace a otra página con especialidades de cervezas.
 - CONTACTO: página que muestra la información de contacto, la dirección y además contiene un formulario para enviar consultas.
 
+Observaciones: 
+- He utilizado etiquetas < br > en los textos por cuestiones de diseño, buscaba un slto de linea sin espaciado entre parrafos y es la unica manera de conseguirlo.
+
 ### Licencia y copyright
 La licencia utilizada es una Creative Commons Legal Code.
 Este proyecto ha sido realizado por mí, Judit Grau Puigdollers, inéditamente para la tarea 'Carta digital de un restaurante en Bootstrap' en la edición de Abril 2023 de GeeksHubs Academy.
