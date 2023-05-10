@@ -36,6 +36,9 @@ Observaciones:
 
 - En el CSS: las clases que empiezan por .own, son clases sobre los diseños de bootstrap, el resto son sobre el html. 
 
+
+-Añadidos los favicon, .ico
+
 ### Licencia y copyright
 La licencia utilizada es una Creative Commons Legal Code.
 Este proyecto ha sido realizado por mí, Judit Grau Puigdollers, inéditamente para la tarea 'Carta digital de un restaurante en Bootstrap' en la edición de Abril 2023 de GeeksHubs Academy.
