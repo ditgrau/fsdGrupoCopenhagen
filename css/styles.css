@@ -14,6 +14,7 @@
 .all-center {
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 .empty-row {

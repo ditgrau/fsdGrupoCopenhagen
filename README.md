@@ -31,6 +31,7 @@ Mi proyecto consta de:
 
 Observaciones: 
 - He utilizado etiquetas < br > en los textos por cuestiones de diseño, buscaba un slto de linea sin espaciado entre parrafos y es la unica manera de conseguirlo.
+- En el CSS: las clases que empiezan por .own, son clases sobre los diseños de bootstrap, el resto son sobre el html. 
 
 ### Licencia y copyright
 La licencia utilizada es una Creative Commons Legal Code.
