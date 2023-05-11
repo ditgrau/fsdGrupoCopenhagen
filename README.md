@@ -47,15 +47,10 @@ Mi proyecto consta de:
 
 ### Observaciones: 
 
-- En las páginas que contienen botones con accesos a otros menús o cartas, he vínculado un modal de Bootstrap con un mensaje de "Página en construcción".
-- En el archivo styles.css, las clases que empiezan por .own son clases que afectan a elementos bootstrap.
+- En las páginas que contienen botones con accesos a otros menús o cartas, he vinculado un modal de Bootstrap con un mensaje de "Página en construcción".
+- En el archivo styles.css, las clases que empiezan por .own son clases que afectan a elementos Bootstrap.
 
 
 ### Licencia y copyright
 La licencia utilizada es una MIT License.
-Este proyecto ha sido realizado por mí, Judit Grau Puigdollers, inéditamente para la tarea 'Carta digital de un restaurante en Bootstrap' en la edición de Abril 2023 de GeeksHubs Academy.
-
-
-
-
-
+Este proyecto ha sido realizado por mí, Judit Grau Puigdollers, inéditamente para la tarea 'Carta digital de un restaurante en Bootstrap' en la edición de abril 2023 de GeeksHubs Academy.
