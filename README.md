@@ -23,7 +23,7 @@ Desarrollada como parte del Bootcamp de Full Stack Developer de Geekshubs Academ
 <br>
 
 
-### Grupo Copenhagen
+🔸### Grupo Copenhagen 
 
 🤔Para la selección del proyecto evalué diversas opciones teniendo en cuenta la complejidad técnica, la viabilidad y la relevancia del proyecto. Finalmente elegí rehacer la página web del grupo de restaurantes Copenhagen.
 
@@ -34,7 +34,7 @@ Esta decisión se basa en que la página actual presenta varios problemas import
 Por esto, el nuevo diseño se centra en crear una experiencia atractiva y funcional, que refleje los valores de la empresa y la calidad de su oferta gastronómica. 
 
 
-### Descripción
+🔸### Descripción
 
 Este proyecto se centra en la utilización de Bootstrap, como framework para un diseño responsive y adaptativo.
 Mi proyecto consta de:
@@ -45,7 +45,7 @@ Mi proyecto consta de:
 - 📍CONTACTO: página que muestra la información de contacto de cada uno de los restaurantes del grupo, incluyendo también un formulario de contacto para enviar consultas o comentarios.
 
 
-### Observaciones: 
+🔸### Observaciones: 
 
 - 🚧En las páginas que contienen botones con accesos a otros menús o cartas, he vinculado un modal de Bootstrap con un mensaje de "Página en construcción".
 - 🎨En el archivo styles.css, las clases que empiezan por .own son clases que afectan a elementos Bootstrap.
