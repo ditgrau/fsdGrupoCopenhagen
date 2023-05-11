@@ -15,32 +15,44 @@ Desarrollada como parte del Bootcamp de Full Stack Developer de Geekshubs Academ
 
 ## Tabla de contenidos
 
-- [👩🏻‍💻 Características](#Características)
+
+- [🥗 Grupo Copenhagen](#Grupo-copenhagen)
+- [👩🏻‍💻 Descripción del proyecto](#Descripción)
+- [🔍 Observaciones](#Observaciones)
 - [⚖️ Licencia y Copyright](#licencia-y-copyright)
 <br>
 
-### Características 
 
-Este proyecto se centra en la utilización de Bootstrap, como framework para un diseño responsive.
+### Grupo Copenhagen
 
+Para la selección del proyecto evalué diversas opciones teniendo en cuenta la complejidad técnica, la viabilidad y la relevancia del proyecto. Finalmente elegí rehacer la página web del grupo de restaurantes Copenhagen.
+
+Esta decisión se basa en que la página actual presenta varios problemas importantes que afectan a la experiencia del usuario y a la imagen de la marca: 
+- La página no es responsive, lo que dificulta la navegación y la visualización de contenidos. 
+- El diseño es poco atractivo y no se corresponde con la imagen que el Grupo Copenhagen quiere transmitir a sus clientes.
+
+Por esto, el nuevo diseño se centra en crear una experiencia atractiva y funcional, que refleje los valores de la empresa y la calidad de su oferta gastronómica. 
+
+
+### Descripción
+
+Este proyecto se centra en la utilización de Bootstrap, como framework para un diseño responsive y adaptativo.
 Mi proyecto consta de:
 
-- HOME: Página principal donde se presentan los tres restaurantes.
-- PÁGINAS RESTAURANTES: Malmö, Oslo y Copenhagen, cada restaurante con su página propia, con su menú. Malmö, además, tiene enlace a otra página con especialidades de cervezas.
-- CONTACTO: página que muestra la información de contacto, la dirección y además contiene un formulario para enviar consultas.
-
-Observaciones: 
-- Me encontre con el problema de que queria saltos de linea sin espacio entre parrafos. m-0
-- Scroll lateral 
-- No caombinar bootstrap con html limpio, toda mi estructura se basaba en rows y cols.
-
-- En el CSS: las clases que empiezan por .own, son clases sobre los diseños de bootstrap, el resto son sobre el html. 
+- HOME: Página principal donde se presentan los tres restaurantes pertenecientes al Grupo Copenhagen.
+- PÁGINAS DE RESTAURANTES: Malmö, Oslo y Copenhagen, cada uno con su página propia donde se muestran detalles del restaurante y su menú o carta.
+- PÁGINA DE ESPECIALIDADES DE CERVEZA: Malmö, además, cuenta con una página adicional en la que se muestran sus especialidades de cerveza artesanal valencianas.
+- CONTACTO: página que muestra la información de contacto de cada uno de los restaurantes del grupo, incluyendo también un formulario de contacto para enviar consultas o comentarios.
 
 
--Añadidos los favicon, .ico
+### Observaciones: 
+
+- En las páginas que contienen botones con accesos a otros menús o cartas, he vínculado un modal de Bootstrap con un mensaje de "Página en construcción".
+- En el archivo styles.css, las clases que empiezan por .own son clases que afectan a elementos bootstrap.
+
 
 ### Licencia y copyright
-La licencia utilizada es una Creative Commons Legal Code.
+La licencia utilizada es una MIT License.
 Este proyecto ha sido realizado por mí, Judit Grau Puigdollers, inéditamente para la tarea 'Carta digital de un restaurante en Bootstrap' en la edición de Abril 2023 de GeeksHubs Academy.
 
 
