@@ -43,10 +43,6 @@
     background-color: rgb(198, 183, 169);
 }
 
-.btn-primary {
-    --bs-btn-active-bg: rgb(198, 183, 169);
-}
-
 .own-text-link:hover {
     font-weight: 100;
 }
@@ -55,9 +51,11 @@
     transform: translate(0.5rem);
 }
 
-.accordion-item {
---bs-accordion-btn-bg: rgb(243, 240, 236);
---bs-accordion-active-bg: rgb(234, 226, 215);
---bs-accordion-btn-focus-border-color: none;
---bs-accordion-btn-focus-box-shadow: none;
+.own-btn-acc {
+    background-color: rgb(243, 240, 236);
+}
+
+.own-btn-acc:focus {
+    box-shadow: none;
+    background-color: rgb(243, 240, 236);
 }
