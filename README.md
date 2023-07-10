@@ -6,12 +6,16 @@ __<p align="center">Proyecto 2 - Carta Restaurante Digital - Semana 2</p>__
 <p align="center">Web Grupo Copenhagen, por Judit Grau.
 <br>
 Desarrollada como parte del Bootcamp de Full Stack Developer de Geekshubs Academy.</p>
+
+
 <p align="center">_______________________________________________</p>
 
 
 <h5 align="center"> Tecnologías utilizadas</h1>
 
 <p align="center">HTML5, CSS3 y Bootstrap.
+
+[Enlace Grupo Copenhagen - Judit Grau](ditgrau.github.io/fsdGrupoCopenhagen/)
 
 ## Tabla de contenidos
 
@@ -33,7 +37,6 @@ Esta decisión se basa en que la página actual presenta varios problemas import
 
 Por esto, el nuevo diseño se centra en crear una experiencia atractiva y funcional, que refleje los valores de la empresa y la calidad de su oferta gastronómica. 
 
-
 ### Descripción
 
 Este proyecto se centra en la utilización de Bootstrap, como framework para un diseño responsive y adaptativo.
@@ -44,6 +47,7 @@ Mi proyecto consta de:
 - 🍻PÁGINA DE ESPECIALIDADES DE CERVEZA: Malmö, además, cuenta con una página adicional en la que se muestran sus especialidades de cerveza artesanal valencianas.
 - 📍CONTACTO: página que muestra la información de contacto de cada uno de los restaurantes del grupo, incluyendo también un formulario de contacto para enviar consultas o comentarios.
 
+<img src="./img/Captura de pantalla 2023-07-10 210117.png"></img>
 
 ### Observaciones: 
 
