@@ -15,7 +15,7 @@ Desarrollada como parte del Bootcamp de Full Stack Developer de Geekshubs Academ
 
 <p align="center">HTML5, CSS3 y Bootstrap.
 
-[Enlace Grupo Copenhagen - Judit Grau](ditgrau.github.io/fsdGrupoCopenhagen/)
+[Enlace Grupo Copenhagen - Judit Grau](https://ditgrau.github.io/fsdGrupoCopenhagen/)
 
 ## Tabla de contenidos
 
